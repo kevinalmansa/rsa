@@ -1,6 +1,6 @@
 # RSA
 
-## Summery
+## Summary
 Simple RSA implementation with detail to readabiltiy, meant to demonstrate
 how the algorithm works. The C programming language was chosen for this
 implementation due to the similarity in syntax to other languages.
@@ -22,7 +22,7 @@ The RSA keypair is (e,n), (d,n).
 The second binary was simply used to act as a very basic form of unit test
 ensuring encryption and decryption works.
 
-## Compatability
+## Compatibility
 This was written and tested on a Linux computer running Kernel 4.2.
 It should work on any Linux with gcc installed.
 
